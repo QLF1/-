@@ -1,0 +1,17 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\college\RobotMaster\STM32F103C8核心板--升级版资料-1804\STM32F103C8T6程序例程\STM32F103C8T6例程\基本例程-I0操作_LED流水灯\LED流水灯\USER\STM32-DEMO.uvproj
+Project File Date:  10/02/2018
+
+<h2>Output:</h2>
+Build target 'LED-DEMO'
+assembling startup_stm32f10x_hd.s...
+--- Error: failed to execute 'BIN40\ArmAsm'
+目标未创建
+Build target 'LED-DEMO'
+assembling startup_stm32f10x_hd.s...
+--- Error: failed to execute 'BIN40\ArmAsm'
+目标未创建

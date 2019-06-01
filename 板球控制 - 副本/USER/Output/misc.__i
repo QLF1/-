@@ -1,0 +1,7 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS -I..\FWlib\inc -I..\USER -I..\FWlib\src -I..\CMSIS\startup
+-I "D:\RM\°åÇò¿ØÖÆ - ¸±±¾\USER\RTE"
+-I D:\KEIL5\arm\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0
+-I D:\KEIL5\arm\ARM\CMSIS\Include
+-I D:\KEIL5\arm\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include
+-D__UVISION_VERSION="514" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD
+-o .\output\misc.o --omf_browse .\output\misc.crf --depend .\output\misc.d "..\FWlib\src\misc.c"

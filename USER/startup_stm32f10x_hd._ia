@@ -1,0 +1,1 @@
+-cpu "Cortex-M3" --pd "__EVAL SETA 1" -g -apcs /interwork -pd "__MICROLIB SETA 1" -list -xref -o ".\startup_stm32f10x_hd.o" "..\CMSIS\startup\startup_stm32f10x_hd.s"
